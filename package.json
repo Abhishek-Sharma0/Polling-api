@@ -1,12 +1,12 @@
 {
-  "name": "polling_system_api",
+  "name": "pollingAPI",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "rahul4019",
+  "author": "Abhishek_Sharma",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.0.3",
